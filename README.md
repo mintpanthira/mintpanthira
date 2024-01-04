@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @mintpanthira
+- 🎃 I am a senior software engineer in Test (QA)
 - 👀 I’m interested in QA, Automation test, Integration test, End-to-End test, Manual test, and Project Management
-- 🌱 I’m currently learning International Business Management, and Learn a new Framework for Automation test
+- 🌱 I’m currently learning International Business Management
+- 🥳 Learning a new Framework for Automation test
 - 💞️ I’m looking to collaborate on TBA
 - 📫 How to reach me panthira.tie@gmail.com
 - Follow my blog: medium.com/@panthira.tie
